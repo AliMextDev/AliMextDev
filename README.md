@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi, I'm Ali a high school student from Iraq with a big dream: to study Computer Science and Artificial Intelligence in Japan through the MEXT scholarship.
+
+This GitHub is where I document my learning journey from writing my first lines of Python code to building small AI projects that reflect what I’ve learned.
+
+I believe that real progress comes from doing, not just studying. Every file here represents a lesson, a mistake, a fix, or a breakthrough and together, they show how I’m growing step by step.
+
+I’m not an expert. Not yet. But I’m determined. And this is my way of turning that determination into something real.
+
+Welcome to my journey.
 
 <!--
 **AliMextDev/AliMextDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
